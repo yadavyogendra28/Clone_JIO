@@ -1,0 +1,35 @@
+.jio_bg_def {
+    background-color: rgb(23, 23, 233);
+}
+
+.jio_bg_def_dark {
+    background-color: rgb(11, 11, 146);
+}
+
+.hover_bg:hover {
+    background-color: rgb(88, 88, 219);
+}
+
+.hover_txt:hover {
+    color: whitesmoke;
+}
+
+.hover_underline:hover {
+    text-decoration: underline;
+    padding-top: 2px;
+}
+
+.hover_btn_circle:hover {
+    width: 12px;
+    height: 12px;
+    border: 1px solid rgb(23, 23, 233);
+    transform: rotate(360deg);
+    transition: all 3s;
+    border-radius: 100%;
+}
+
+.hover_footer:hover {
+    background-color: whitesmoke;
+}
+
+.black_color{ color: black;}
